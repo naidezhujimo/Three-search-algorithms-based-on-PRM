@@ -1,7 +1,7 @@
 # Text Generation with MiniLM and Search Algorithms
 
 This repository demonstrates text generation using a simple language model (MiniLM) combined with different search algorithms (Best-of-N, Beam Search, Lookahead Search) and a reward model (PRM). The implementation includes visualization of the search processes.
-
+The associated mathematical formula can be found here:
 ## Features
 
 - **MiniLM**: A lightweight language model with LSTM layers for sequence generation.
