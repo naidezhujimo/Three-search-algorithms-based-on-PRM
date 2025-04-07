@@ -68,7 +68,7 @@ pip install torch numpy matplotlib networkx
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## License
 
-MIT License
-```
+## Blog
+https://blog.csdn.net/2303_79071981/article/details/147016903?spm=1001.2014.3001.5502
+
