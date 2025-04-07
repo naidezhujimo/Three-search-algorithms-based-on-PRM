@@ -25,24 +25,6 @@ Install dependencies:
 pip install torch numpy matplotlib networkx
 ```
 
-## Usage
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/minilm-search-demo.git
-   cd minilm-search-demo
-   ```
-
-2. **Run the demo script**:
-   ```bash
-   python test_with_graphs.py  # Rename the file if needed
-   ```
-
-3. **Generated Outputs**:
-   - `best_of_n.png`: Bar chart comparing candidate token scores.
-   - `beam_search_tree.png`: Graph showing beam search paths.
-   - `lookahead_decision.png`: Decision process visualization for lookahead search.
-
 ## Code Structure
 
 - `MiniLM` class: Implements the language model.
